@@ -1,0 +1,7 @@
+Links úteis para o desenvolvimento do curso:
+
+- https://git-scm.com/downloads
+- https://comandosgit.github.io/
+- https://rogerdudler.github.io/git-guide/index.pt_BR.html
+
+Os links podem ser úteis para entendimento e estudos sobre Git e GitHub;
